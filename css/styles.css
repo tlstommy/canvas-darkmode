@@ -18,10 +18,6 @@
   color: #E6EDF3 !important;
 }
 
-.module-sequence-footer-content, .ic-app-crumbs, #breadcrumbs, .course-list-unpublished-course-row{
-  background-color: #0D1117 !important;
-}
-
 a.btn{
   color: #E6EDF3;
 }
@@ -63,6 +59,10 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 .Day-styles__root.planner-day{
   background-color: #0D1117;
 }
+
+.discussions-v2__container-image,.unpinned-discussions-v2__wrapper,.closed-for-comments-discussions-v2__wrapper{
+  background-color: #0D1117 !important;
+}
 .Day-styles__root.planner-day.planner-today{
   color: #E6EDF3;
 }
@@ -87,13 +87,24 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
   color: #E6EDF3 !important;
 }
 
+.navigation-tray-container button:active::before{
+  background-color: #0D1117 !important;
+}
+
 .ic-Dashboard-header__layout, #ugyHpVu7UZ3C{
   background-color: #0D1117 !important;
   color: #E6EDF3 !important;
 }
 
+.course-list-table .course-list-table-row:hover, .ef-item-row:hover, tr:hover, td:hover a:hover{
+  color: #000 !important;
+}
 
-.fOyUs_bGBk, .fOyUs_EMjX, .dpCPB_caGd, .eJkkQ_bEpV,.fLzZc_caGd{
+span.name{
+  color: #106b8b !important;
+}
+
+.fOyUs_bGBk, .fOyUs_EMjX, .dpCPB_caGd, .eJkkQ_bEpV,.fLzZc_caGd,.course-list-unpublished-course-row{
   background-color: #0D1117 !important;
   color: #E6EDF3;
 }

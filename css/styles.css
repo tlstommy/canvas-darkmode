@@ -12,9 +12,9 @@
   color: #E6EDF3;
 }
 
-.btn{
+.btn, #month, #week, #agenda .navigate_prev, .navigate_next, .navigate_today, .fc-toolbar{
   background-color: #202124 !important;
-  color: #E6EDF3;
+  color: #E6EDF3 !important;
 }
 a.btn{
   color: #E6EDF3;
@@ -89,6 +89,13 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 }
 .css-srlnt2-formFieldLabel, .fCrpb_bGBk, .fCrpb_egrg, #to-do-item-course-select{
   color: #E6EDF3 !important;
+}
+.fc-state-highlight,#minical{
+  background-color: #202124 !important;
+}
+
+.fc-day-number{
+  color: #E6EDF3
 }
 
 .Opportunity-styles__root{

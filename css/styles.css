@@ -12,16 +12,26 @@
   color: #E6EDF3;
 }
 
+
 .btn, #month, #week, #agenda .navigate_prev, .navigate_next, .navigate_today, .fc-toolbar{
   background-color: #202124 !important;
   color: #E6EDF3 !important;
 }
+
+.module-sequence-footer-content, .ic-app-crumbs, #breadcrumbs, .course-list-unpublished-course-row{
+  background-color: #0D1117 !important;
+}
+
 a.btn{
   color: #E6EDF3;
 }
 
-#content{
-  background-color: #0D1117;
+h2{
+  color:#E6EDF3 !important;
+}
+
+#content, .button-sidebar-wide{
+  background-color: #0D1117 !important;
 }
 
 /*nav*/
@@ -34,7 +44,7 @@ a.btn{
 .comm-channel, .grouping, th, .table, .planner-day, .nothingPlannedContainer_hppr
 , .comments, .roster-tab, .rosterUser, .syllabus_assignment, tbody, .day_date, .table, .table-striped, .ic-flash-error,
 span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agenda-event__container,
-.event-details, .rubric_title, .content_box, .edit_calendar_event_form_holder,.ui-dialog-titlebar, .ui-widget-header, .ui-corner-all, .ui-helper-clearfix {
+.event-details, .rubric_title, .content_box, .edit_calendar_event_form_holder,.ui-dialog-titlebar, .ui-widget-header, .ui-corner-all, .ui-helper-clearfix,.context_list_context,#other-calendars-list-holder,#edit_planner_note_form_holder  {
     background-color: #0D1117 !important;
 }
 
@@ -73,11 +83,11 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 }
 
 
-.enRcg_eQnG ,.fOyUs_bGBk, .fOyUs_ImeN, .fOyUs_UeJS{
+.enRcg_eQnG ,.fOyUs_bGBk, .fOyUs_ImeN, .fOyUs_UeJS, .fc-icon{
   color: #E6EDF3 !important;
 }
 
-.ic-Dashboard-header__layout{
+.ic-Dashboard-header__layout, #ugyHpVu7UZ3C{
   background-color: #0D1117 !important;
   color: #E6EDF3 !important;
 }
@@ -87,10 +97,13 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
   background-color: #0D1117 !important;
   color: #E6EDF3;
 }
-.css-srlnt2-formFieldLabel, .fCrpb_bGBk, .fCrpb_egrg, #to-do-item-course-select{
+.css-srlnt2-formFieldLabel, .fCrpb_bGBk, .fCrpb_egrg, #to-do-item-course-select, #ui-dialog-title,#ui-id-1,.formtable{
   color: #E6EDF3 !important;
 }
-.fc-state-highlight,#minical{
+.fc-state-highlight{
+  background-color: #034d68 !important;
+}
+#minical{
   background-color: #202124 !important;
 }
 

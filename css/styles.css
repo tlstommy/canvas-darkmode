@@ -7,16 +7,18 @@
   background-color: #0D1117;
 }
 
+
+
+#content{
+  background-color: #0D1117;
+}
+
 /*nav*/
 .ic-app-header__main-navigation {
   background-color: #010409;
 }
 
-.fLzZc_caGd{
-  background-color: #010409 !important;
-}
-
-.ic-DashboardCard, .ic-DashboardCard__header_content, .header,
+.ic-DashboardCard, .ic-DashboardCard__header_content, .header, .header-bar, .context-modules-title, .module-sequence-footer-content,
 .ic-DashboardCard__action-container, .item-group-container, .ig-row, .header-bar-outer-container
 , .fc-body, .fc-content, .fc-event-container,
 .comm-channel, .grouping, th, .table, .planner-day, .nothingPlannedContainer_hppr
@@ -62,5 +64,33 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 
 
 .enRcg_eQnG ,.fOyUs_bGBk, .fOyUs_ImeN, .fOyUs_UeJS{
+  color: #E6EDF3 !important;
+}
+
+.ic-Dashboard-header__layout{
+  background-color: #0D1117 !important;
+  color: #E6EDF3 !important;
+}
+
+
+.fOyUs_bGBk, .fOyUs_EMjX, .dpCPB_caGd, .eJkkQ_bEpV,.fLzZc_caGd{
+  background-color: #0D1117 !important;
+  color: #E6EDF3;
+}
+.css-srlnt2-formFieldLabel, .fCrpb_bGBk, .fCrpb_egrg, #to-do-item-course-select{
+  color: #E6EDF3 !important;
+}
+
+.Opportunity-styles__root{
+  background-color: #0D1117 !important;
+}
+
+.PlannerHeader-styles__root, .PlannerHeader{
+  background-color: #0D1117 !important;
+}
+
+/*module stuff*/
+
+.module-item-title, .item_name, .ig-type-icon, .ig-info, .ig-title, .title, .item_link, .name, .icon-mini-arrow-down {
   color: #E6EDF3 !important;
 }

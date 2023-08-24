@@ -10,10 +10,8 @@
     "content_scripts": [
         {
           "matches": [
-            "https://*.instructure.com/*",
-            "https://*.instructure.edu/*",
-            "https://canvas.*.com/*",
-            "https://canvas.*.edu/*"
+            "https://utk.instructure.com/*"
+
           ],
           "css":[
             "css/styles.css"

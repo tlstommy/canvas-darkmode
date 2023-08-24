@@ -16,16 +16,72 @@ body{
   background-color: #0D1117 !important;
 }
 
+ul.pill{
+  background-color: #E6EDF3 !important;
+  color: #000 !important;
+}
+
+tr,td,th, .ig-header, .ig-header-title{
+  background-color: #0D1117 !important;
+  color: #E6EDF3 !important;
+}
+
+td.event{
+  background-color: #38b9ec !important;
+}
+.quiz-submission{
+  color: #000 !important;
+}
+
 .btn, #month, #week, #agenda .navigate_prev, .navigate_next, .navigate_today, .fc-toolbar{
   background-color: #202124 !important;
   color: #E6EDF3 !important;
+}
+#course_select_menu{
+  color: #000 !important;
+}
+
+span.fCrpb_bGBk,span.fCrpb_egrg, span.enRcg_bGBk.enRcg_ycrn.enRcg_bdMA.enRcg_eQnG, span.enRcg_bGBk.enRcg_ycrn.enRcg_fetN.enRcg_eQnG{
+  color: #E6EDF3 !important;
+}
+
+
+.icon-check-plus::before{
+  color: #E6EDF3 !important;
+}
+
+.icon-mini-arrow-down::before{
+  color: #E6EDF3 !important;
+}
+
+a.active{
+  color: #25a3d4 !important;
 }
 
 a.btn{
   color: #E6EDF3;
 }
 
+svg[name=IconBookmark],svg[name=IconMore],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion]{
+  color:#E6EDF3 !important;
+}
+
+span.enRcg_bGBk.enRcg_ycrn.enRcg_eQnG{
+  color: #000 !important;
+}
+
+svg[name="IconX"],i.icon-check-plus{
+  color: #E6EDF3 !important;
+}
+
+span.comment_count{
+  color: #000 !important;
+}
+
 h2{
+  color:#E6EDF3 !important;
+}
+button.element_toggler {
   color:#E6EDF3 !important;
 }
 
@@ -34,7 +90,11 @@ h2{
 }
 
 /*nav*/
-.ic-app-header__main-navigation,.tray-with-space-for-global-nav, .navigation-tray-container.courses-tray, .navigation-tray-container{
+.ic-app-header__main-navigation,.tray-with-space-for-global-nav, .navigation-tray-container.courses-tray, .navigation-tray-container,.UpdateItemTray-styles__root,#nav-tray-portal, div.fLzZc_caGd{
+  background-color: #010409 !important;
+}
+
+span[dir=ltr]{
   background-color: #010409 !important;
 }
 
@@ -77,7 +137,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
   background-color: #0D1117;
 }
 
-.has_event{
+.has_event, input#course_select_menu,input#assignment_sort_order_select_menu{
   color: #000 !important;
 }
 
@@ -90,13 +150,14 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 }
 
 
-.fc-icon, #course_select_menu, #assignment_sort_order_select_menu{
+.fc-icon, #course_select_menu, #assignment_sort_order_select_menu, button.fOyUs_bGBk  {
   color: #E6EDF3 !important;
 }
 
 .navigation-tray-container button:active::before{
   background-color: #0D1117 !important;
 }
+
 
 .ic-Dashboard-header__layout, #ugyHpVu7UZ3C,.fOyUs_kXoP{
   background-color: #0D1117 !important;
@@ -108,7 +169,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 }
 
 span.name{
-  color: #106b8b !important;
+  color: #E6EDF3 !important;
 }
 
 .course-list-unpublished-course-row{

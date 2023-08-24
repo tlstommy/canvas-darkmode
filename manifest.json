@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "chrome extension test",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "extension.html",
+      "default_icon": "icon.svg"
+    }
+  }

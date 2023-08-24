@@ -1,6 +1,6 @@
 
 #application {
-  background-color: #0D1117;
+  background-color: #0D1117 !important;
   color: #E6EDF3;
 }
 #content.ic-Layout-contentMain {
@@ -12,51 +12,18 @@
   background-color: #010409;
 }
 
-/*autogen css for navs and slideouts */
 .fLzZc_caGd{
-  background-color: #010409;
+  background-color: #010409 !important;
 }
-.fOyUs_bGBk{
-  background-color: #010409;
-} 
-.fOyUs_desw{
-  background-color: #010409;
-} 
-.bDzpk_bGBk{
-  background-color: #010409;
-} 
-.bDzpk_oDLF{
-  background-color: #010409;
-} 
-.bDzpk_fZWR{
-  background-color: #010409;
-} 
-.bDzpk_qOas{
-  background-color: #010409;
-}
-.ejhDx_bGBk{
-  background-color: #010409;
-}
-.ejhDx_bxia{
-  background-color: #010409;
-} 
-.ejhDx_coHh{
-  background-color: #010409;
-}
-.fLzZc_bGBk{
-  background-color: #010409;
-}
-.fLzZc_fSpQ{
-  background-color: #010409;
-}
-.fLzZc_doqw{
-  background-color: #010409;
-}
-.fLzZc_bQpq{
-  background-color: #010409;
-} 
-.eJkkQ_bIuM{
-  background-color: #010409;
+
+.ic-DashboardCard, .ic-DashboardCard__header_content, .header,
+.ic-DashboardCard__action-container, .item-group-container, .ig-row, .header-bar-outer-container
+, .fc-body, .fc-content, .fc-event-container,
+.comm-channel, .grouping, th, .table, .planner-day, .nothingPlannedContainer_hppr
+, .comments, .roster-tab, .rosterUser, .syllabus_assignment, tbody, .day_date, .table, .table-striped, .ic-flash-error,
+span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agenda-event__container,
+.event-details, .rubric_title, .content_box {
+    background-color: #0D1117 !important;
 }
 
 .ic-app-header__logomark{
@@ -71,13 +38,11 @@
   background-color: #0D1117;
 }
 
-
-
 .Day-styles__root.planner-day{
   background-color: #0D1117;
 }
 .Day-styles__root.planner-day.planner-today{
-  color:E6EDF3E6EDF3;
+  color: #E6EDF3;
 }
 .Day-styles__secondary{
   color: #E6EDF3;
@@ -91,21 +56,11 @@
   color: #E6EDF3;
 }
 
-
 .PlannerItem-styles__type{
   --enRcg-secondaryColor: #E6EDF3;
 }
 
-.enRcg_eQnG{
-  color: #E6EDF3;
-}
 
-.fOyUs_bGBk{
-  color: #E6EDF3
-}
-.fOyUs_ImeN{
-  color: #E6EDF3
-} 
-.fOyUs_UeJS{
-  color: #E6EDF3
+.enRcg_eQnG ,.fOyUs_bGBk, .fOyUs_ImeN, .fOyUs_UeJS{
+  color: #E6EDF3 !important;
 }

@@ -12,6 +12,9 @@
   color: #E6EDF3;
 }
 
+body{
+  background-color: #0D1117 !important;
+}
 
 .btn, #month, #week, #agenda .navigate_prev, .navigate_next, .navigate_today, .fc-toolbar{
   background-color: #202124 !important;
@@ -31,8 +34,8 @@ h2{
 }
 
 /*nav*/
-.ic-app-header__main-navigation {
-  background-color: #010409;
+.ic-app-header__main-navigation,.tray-with-space-for-global-nav, .navigation-tray-container.courses-tray, .navigation-tray-container{
+  background-color: #010409 !important;
 }
 
 .ic-DashboardCard, .ic-DashboardCard__header_content, .header, .header-bar, .context-modules-title, .module-sequence-footer-content,
@@ -66,12 +69,16 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 .Day-styles__root.planner-day.planner-today{
   color: #E6EDF3;
 }
-.Day-styles__secondary{
+.Day-styles__secondary, span.month_name, span.year_number,.icon-arrow-open-left,.icon-arrow-open-right{
   color: #E6EDF3;
 }
 
 .EmptyDays-styles__nothingPlannedContainer{
   background-color: #0D1117;
+}
+
+.has_event{
+  color: #000 !important;
 }
 
 .EmptyDays-styles__nothingPlannedContainer{
@@ -83,7 +90,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 }
 
 
-.enRcg_eQnG ,.fOyUs_bGBk, .fOyUs_ImeN, .fOyUs_UeJS, .fc-icon{
+.fc-icon, #course_select_menu, #assignment_sort_order_select_menu{
   color: #E6EDF3 !important;
 }
 
@@ -91,7 +98,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
   background-color: #0D1117 !important;
 }
 
-.ic-Dashboard-header__layout, #ugyHpVu7UZ3C{
+.ic-Dashboard-header__layout, #ugyHpVu7UZ3C,.fOyUs_kXoP{
   background-color: #0D1117 !important;
   color: #E6EDF3 !important;
 }
@@ -104,11 +111,11 @@ span.name{
   color: #106b8b !important;
 }
 
-.fOyUs_bGBk, .fOyUs_EMjX, .dpCPB_caGd, .eJkkQ_bEpV,.fLzZc_caGd,.course-list-unpublished-course-row{
+.course-list-unpublished-course-row{
   background-color: #0D1117 !important;
   color: #E6EDF3;
 }
-.css-srlnt2-formFieldLabel, .fCrpb_bGBk, .fCrpb_egrg, #to-do-item-course-select, #ui-dialog-title,#ui-id-1,.formtable{
+.css-srlnt2-formFieldLabel, #to-do-item-course-select, #ui-dialog-title,#ui-id-1,.formtable{
   color: #E6EDF3 !important;
 }
 .fc-state-highlight{
@@ -122,12 +129,11 @@ span.name{
   color: #E6EDF3
 }
 
-.Opportunity-styles__root{
-  background-color: #0D1117 !important;
-}
 
-.PlannerHeader-styles__root, .PlannerHeader{
+
+.PlannerHeader-styles__root, .PlannerHeader, #dashboard-planner-header,.CanvasPlanner__HeaderContainer{
   background-color: #0D1117 !important;
+  color: #E6EDF3 !important;
 }
 
 /*module stuff*/

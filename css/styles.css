@@ -71,6 +71,17 @@ td.event{
   color: #000 !important;
 }
 
+div[letter-spacing=normal].enRcg_bGBk.enRcg_dfBC.enRcg_pEgL.enRcg_eQnG{
+  color: #E6EDF3 !important;
+}
+
+span.elMgC_eYKj{
+  color: #000 !important;
+}
+
+svg[name=IconArrowDown], svg[name=IconArrowOpenDown], svg[name=IconSearch]{
+  color: #000 !important;
+}
 
 .comment{
   color: #E6EDF3 !important;
@@ -79,6 +90,10 @@ td.event{
 #main.ic-Layout-contentMain{
   background-color: #202124 !important;
   color: #E6EDF3 !important;
+}
+
+li.section{
+  color: #22d4f3 !important;
 }
 
 .icon-check-plus::before{
@@ -96,6 +111,7 @@ td.event{
 a.active{
   color: #25a3d4 !important;
 }
+
 
 a.fc-day-grid-event{
   background-color: #0D1117!important;
@@ -199,6 +215,10 @@ span[dir=ltr]{
 }
 
 span.fCrpb_bGBk.fCrpb_egrg{
+  color: #E6EDF3 !important;
+}
+
+div.context{
   color: #E6EDF3 !important;
 }
 

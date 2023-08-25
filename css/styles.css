@@ -135,6 +135,18 @@ a.Button{
   background-color: #0D1117 !important;
 }
 
+a.popover_close.x-close-link.close{
+  color: #E6EDF3 !important;
+}
+
+button.ui-dialog-titlebar-close.ui-corner-all{
+  background-color: #E6EDF3 !important;
+}
+
+svg[name=IconReply],svg[name=IconAddressBook],svg[name=IconReplyAll2],svg[name=IconCollectionSave],svg[name=IconCompose],svg[name=IconTrash],svg[name=IconMore].dUOHu_bGBk.dUOHu_drOs.dUOHu_eXrk.cGqzL_bGBk{
+  color: #000 !important;
+}
+
 svg[name=IconBookmark],svg[name=IconAssignment],svg[name=IconMore],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconQuiz],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion],svg{
   color:#E6EDF3 !important;
 }
@@ -249,7 +261,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 }
 
 .course-list-table .course-list-table-row:hover, .ef-item-row:hover, tr:hover, td:hover a:hover{
-  color: #000 !important;
+  color: #22d4f3 !important;
 }
 
 span.name, .PlannerItem-styles__due{
@@ -295,7 +307,7 @@ span.user_content, span.enhanced{
   color: #E6EDF3 !important;
 }
 .title:hover{
-  color: #000 !important;
+  color: #22d4f3 !important;
 }
 
 .ellipsible{

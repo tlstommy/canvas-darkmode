@@ -16,6 +16,13 @@ body{
   background-color: #0D1117 !important;
 }
 
+span{
+  color: #E6EDF3 !important;
+}
+
+span.fQfxa_biBD{
+  color: #000 !important;
+}
 ul.pill{
   background-color: #E6EDF3 !important;
   color: #000 !important;
@@ -123,8 +130,18 @@ a.btn{
   color: #E6EDF3;
 }
 
-svg[name=IconBookmark],svg[name=IconMore],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconQuiz],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion]{
+a.Button{
+  color: #E6EDF3 !important;
+  background-color: #0D1117 !important;
+}
+
+svg[name=IconBookmark],svg[name=IconAssignment],svg[name=IconMore],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconQuiz],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion],svg{
   color:#E6EDF3 !important;
+}
+
+span.menu-item__badge{
+  color: #000 !important;
+  background-color: #0D1117;
 }
 
 span.enRcg_bGBk.enRcg_ycrn.enRcg_eQnG{

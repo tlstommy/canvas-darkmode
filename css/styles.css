@@ -21,6 +21,7 @@ ul.pill{
   color: #000 !important;
 }
 
+
 div[data-testid=tool-bar]{
   background-color: #0D1117 !important;
   color: #E6EDF3 !important;
@@ -85,6 +86,39 @@ a.active{
   color: #25a3d4 !important;
 }
 
+a.fc-day-grid-event{
+  background-color: #0D1117!important;
+  color: #E6EDF3 !important;
+}
+
+span.dLyYq_bGBk.dLyYq_bXiG{
+  background-color: #0D1117!important;
+  color: #E6EDF3 !important;
+}
+
+.Grouping-styles__title{
+  background-color: #0D1117 !important;
+}
+
+span.Grouping-styles__title::after{
+  height: 0px;
+}
+
+.menu-item .ic-app-header__menu-list-item{
+  background-color: #010409 !important;
+  color: #E6EDF3 !important;
+}
+
+
+#assignments-2-student-header, .user_content{
+  background-color: #0D1117 !important;
+  color: #E6EDF3 !important;
+}
+
+#assignments-student-footer{
+  background-color: #0D1117 !important;
+}
+
 a.btn{
   color: #E6EDF3;
 }
@@ -120,9 +154,15 @@ button.element_toggler {
 .ic-app-header__main-navigation,.tray-with-space-for-global-nav, .navigation-tray-container.courses-tray, .navigation-tray-container,.UpdateItemTray-styles__root,#nav-tray-portal, div.fLzZc_caGd{
   background-color: #010409 !important;
 }
-
+.PlannerItem-styles__feedback,span.enRcg_bGBk.enRcg_ycrn.enRcg_eQnG{
+  color: #E6EDF3 !important;
+}
 span[dir=ltr]{
   background-color: #010409 !important;
+}
+
+span.fCrpb_bGBk.fCrpb_egrg{
+  color: #E6EDF3 !important;
 }
 
 .ic-DashboardCard, .ic-DashboardCard__header_content, .header, .header-bar, .context-modules-title, .module-sequence-footer-content,
@@ -157,7 +197,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
   color: #E6EDF3;
 }
 .Day-styles__secondary, span.month_name, span.year_number,.icon-arrow-open-left,.icon-arrow-open-right{
-  color: #E6EDF3;
+  color: #E6EDF3 !important;
 }
 
 .EmptyDays-styles__nothingPlannedContainer{
@@ -211,9 +251,13 @@ span.user_content, span.enhanced{
 .css-srlnt2-formFieldLabel, #to-do-item-course-select, #ui-dialog-title,#ui-id-1,.formtable{
   color: #E6EDF3 !important;
 }
-.fc-state-highlight{
-  background-color: #034d68 !important;
+.fc-state-highlight.fc-day-number{
+  color: #22d4f3 !important;
+  background-color: #202124 !important;
+  font-weight: bold !important;
+  border-bottom: #E6EDF3 solid 1px !important;
 }
+
 #minical{
   background-color: #202124 !important;
 }
@@ -230,7 +274,7 @@ span.user_content, span.enhanced{
 
 /*module stuff*/
 
-.module-item-title, .item_name, .ig-type-icon, .ig-info, .ig-title, .title, .item_link, .name, .icon-mini-arrow-down {
+.module-item-title, .item_name, .ig-type-icon, .ig-info, .ig-title, .title, .item_link, .name, .icon-mini-arrow-down,.icon-mini-arrow-up{
   color: #E6EDF3 !important;
 }
 .title:hover{

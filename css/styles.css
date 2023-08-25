@@ -16,6 +16,10 @@ body{
   background-color: #0D1117 !important;
 }
 
+h1.page-title{
+  color: #E6EDF3 !important;
+}
+
 span{
   color: #E6EDF3 !important;
 }
@@ -143,12 +147,16 @@ button.ui-dialog-titlebar-close.ui-corner-all{
   background-color: #E6EDF3 !important;
 }
 
-svg[name=IconReply],svg[name=IconAddressBook],svg[name=IconReplyAll2],svg[name=IconCollectionSave],svg[name=IconCompose],svg[name=IconTrash],svg[name=IconMore].dUOHu_bGBk.dUOHu_drOs.dUOHu_eXrk.cGqzL_bGBk{
+svg[name=IconReply],svg[name=IconAddressBook],svg[name=IconReplyAll2],svg[name=IconCollectionSave],svg[name=IconCompose],svg[name=IconTrash]{
   color: #000 !important;
 }
 
-svg[name=IconBookmark],svg[name=IconAssignment],svg[name=IconMore],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconQuiz],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion],svg{
+svg[name=IconBookmark],svg[name=IconAssignment],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconQuiz],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion],svg{
   color:#E6EDF3 !important;
+}
+
+svg[name=IconMore]{
+  color: #25a3d4 !important;
 }
 
 span.menu-item__badge{

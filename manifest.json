@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Canvas Darkmode",
+    "name": "Canvas: Darkmode",
     "description": "Applys a darkmode to Canvas.",
     "version": "1.0",
     "icons": {

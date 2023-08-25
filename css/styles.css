@@ -21,6 +21,24 @@ ul.pill{
   color: #000 !important;
 }
 
+div[data-testid=tool-bar]{
+  background-color: #0D1117 !important;
+  color: #E6EDF3 !important;
+  border: #E6EDF3 solid 1px !important;
+}
+
+div[data-testid=submission-comment]{
+  color: #E6EDF3 !important;
+}
+
+.fOyUs_bGBk.eMdva_bgqc.eMdva_pypk.eMdva_MrVJ.eJkkQ_bEpV{
+  color: #000 !important;
+}
+
+span[data-testid=message-detail-item-desktop],span.enRcg_bGBk.enRcg_ycrn.enRcg_fbNi.enRcg_eQnG{
+  color: #E6EDF3 !important;
+}
+
 tr,td,th, .ig-header, .ig-header-title{
   background-color: #0D1117 !important;
   color: #E6EDF3 !important;
@@ -41,14 +59,23 @@ td.event{
   color: #000 !important;
 }
 
-span.fCrpb_bGBk,span.fCrpb_egrg, span.enRcg_bGBk.enRcg_ycrn.enRcg_bdMA.enRcg_eQnG, span.enRcg_bGBk.enRcg_ycrn.enRcg_fetN.enRcg_eQnG{
+
+.comment{
   color: #E6EDF3 !important;
 }
 
+#main.ic-Layout-contentMain{
+  background-color: #202124 !important;
+  color: #E6EDF3 !important;
+}
 
 .icon-check-plus::before{
   color: #E6EDF3 !important;
 }
+
+.icon-warning::before{
+  color: #E6EDF3 !important;
+} 
 
 .icon-mini-arrow-down::before{
   color: #E6EDF3 !important;
@@ -62,7 +89,7 @@ a.btn{
   color: #E6EDF3;
 }
 
-svg[name=IconBookmark],svg[name=IconMore],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion]{
+svg[name=IconBookmark],svg[name=IconMore],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconQuiz],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion]{
   color:#E6EDF3 !important;
 }
 
@@ -137,7 +164,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
   background-color: #0D1117;
 }
 
-.has_event, input#course_select_menu,input#assignment_sort_order_select_menu{
+.has_event, input#course_select_menu,input#assignment_sort_order_select_menu,#to-do-item-course-select{
   color: #000 !important;
 }
 
@@ -168,7 +195,12 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
   color: #000 !important;
 }
 
-span.name{
+span.name, .PlannerItem-styles__due{
+  color: #E6EDF3 !important;
+}
+
+
+span.user_content, span.enhanced{
   color: #E6EDF3 !important;
 }
 
@@ -187,10 +219,10 @@ span.name{
 }
 
 .fc-day-number{
-  color: #E6EDF3
+  color: #E6EDF3 !important;
 }
 
-
+span
 
 .PlannerHeader-styles__root, .PlannerHeader, #dashboard-planner-header,.CanvasPlanner__HeaderContainer{
   background-color: #0D1117 !important;
@@ -202,6 +234,10 @@ span.name{
 .module-item-title, .item_name, .ig-type-icon, .ig-info, .ig-title, .title, .item_link, .name, .icon-mini-arrow-down {
   color: #E6EDF3 !important;
 }
+.title:hover{
+  color: #000 !important;
+}
+
 .ellipsible{
   color: #E6EDF3 !important;
 }

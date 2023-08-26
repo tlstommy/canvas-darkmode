@@ -83,8 +83,8 @@ span.elMgC_eYKj{
   color: #000 !important;
 }
 
-svg[name=IconArrowDown], svg[name=IconArrowOpenDown], svg[name=IconSearch]{
-  color: #000 !important;
+svg[name=IconArrowDown], svg[name=IconSearch]{
+  color: #000000 !important;
 }
 
 .comment{
@@ -179,7 +179,7 @@ svg[name=IconTrash]{
   color: crimson !important;
 }
 
-svg[name=IconMore]{
+svg[name=IconMore],svg[name=IconArrowOpenDown]{
   color: #25a3d4 !important;
 }
 
@@ -204,8 +204,14 @@ h2{
   color:#E6EDF3 !important;
 }
 
-h3{
-  color: #000 !important;
+
+h3.fOyUs_bGBk.blnAQ_bGBk.blnAQ_dnfM.blnAQ_drOs{
+  color:#E6EDF3 !important;
+}
+
+
+.pinned-discussions-v2__wrapper, .ic-item-row .pinned-discussions-v2__wrapper, .unpinned-discussions-v2__wrapper, .ic-discussion-row, .message-list .messages>li{
+  background-color: #0D1117 !important;
 }
 
 button.element_toggler {

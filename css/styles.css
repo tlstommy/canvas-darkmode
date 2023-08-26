@@ -7,6 +7,10 @@
   background-color: #0D1117;
 }
 
+:root:root {
+  --ctrLD-color: #cad1d6;  
+}
+
 #edit_calendar_event_form_holder{
   background-color: #0D1117 !important;
   color: #E6EDF3;

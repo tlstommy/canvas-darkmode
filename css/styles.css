@@ -163,12 +163,16 @@ button.ui-dialog-titlebar-close.ui-corner-all{
   background-color: #E6EDF3 !important;
 }
 
-svg[name=IconReply],svg[name=IconAddressBook],svg[name=IconReplyAll2],svg[name=IconCollectionSave],svg[name=IconCompose],svg[name=IconTrash]{
+svg[name=IconReply],svg[name=IconAddressBook],svg[name=IconReplyAll2],svg[name=IconCollectionSave],svg[name=IconCompose]{
   color: #000 !important;
 }
 
 svg[name=IconBookmark],svg[name=IconAssignment],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconQuiz],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion],svg{
   color:#E6EDF3 !important;
+}
+
+svg[name=IconTrash]{
+  color: crimson !important;
 }
 
 svg[name=IconMore]{
@@ -195,6 +199,11 @@ span.comment_count{
 h2{
   color:#E6EDF3 !important;
 }
+
+h3{
+  color: #000 !important;
+}
+
 button.element_toggler {
   color:#E6EDF3 !important;
 }
@@ -354,6 +363,21 @@ span.user_content, span.enhanced{
   color: #E6EDF3 !important;
 }
 
-li.fOyUs_bGBk.fOyUs_cuDs.ctrLD_bGBk.ctrLD_doqw.ctrLD_dnHs{
+
+span.sJGfW_bGBk, ul.cAqHo_eAjd, span.eoNrR_blJt{
+  background-color: #0D1117 !important;
+}
+
+
+
+.fQfxa_caGd.fQfxa_ImeN, [dir="ltr"] .fQfxa_caGd.fQfxa_ImeN, [dir="rtl"] .fQfxa_caGd.fQfxa_ImeN{
+  background-color: #0D1117 !important;
+}
+
+button#submit-button{
+  color: #E6EDF3 !important;
+}
+
+span.fQfxa_biBD{
   color: #E6EDF3 !important;
 }

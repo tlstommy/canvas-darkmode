@@ -1,2 +1,2 @@
 # utk-canvas-darkmode
-Chrome Exstension that give UTK's Instructure Canvas a dark mode.
+Chrome Exstension that give Instructure Canvas a dark mode.

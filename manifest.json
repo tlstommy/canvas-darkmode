@@ -3,6 +3,8 @@
     "name": "Canvas: Darkmode",
     "description": "Applys a darkmode to Canvas.",
     "version": "1.0",
+    "default_locale": "en",
+    "homepage_url": "https://github.com/tlstommy/canvas-darkmode", 
     "icons": {
       "16": "images/icon16.png",
       "32": "images/icon32.png",

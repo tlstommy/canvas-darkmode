@@ -1,10 +1,10 @@
 
 #application {
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3;
 }
 #content.ic-Layout-contentMain {
-  background-color: #0D1117;
+  background-color: #282A2E;
 }
 
 :root:root {
@@ -12,12 +12,12 @@
 }
 
 #edit_calendar_event_form_holder{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3;
 }
 
 body{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 h1.page-title{
@@ -38,7 +38,7 @@ ul.pill{
 
 
 div[data-testid=tool-bar]{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3 !important;
   border: #E6EDF3 solid 1px !important;
 }
@@ -56,7 +56,7 @@ span[data-testid=message-detail-item-desktop],span.enRcg_bGBk.enRcg_ycrn.enRcg_f
 }
 
 tr,td,th, .ig-header, .ig-header-title{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3 !important;
 }
 
@@ -68,7 +68,7 @@ td.event{
 }
 
 .btn, #month, #week, #agenda .navigate_prev, .navigate_next, .navigate_today, .fc-toolbar{
-  background-color: #202124 !important;
+  background-color: #010409 !important;
   color: #E6EDF3 !important;
 }
 #course_select_menu{
@@ -92,7 +92,7 @@ svg[name=IconArrowDown], svg[name=IconSearch]{
 }
 
 #main.ic-Layout-contentMain{
-  background-color: #202124 !important;
+  background-color: #010409 !important;
   color: #E6EDF3 !important;
 }
 
@@ -118,17 +118,17 @@ a.active{
 
 
 a.fc-day-grid-event{
-  background-color: #0D1117!important;
+  background-color: #282A2E!important;
   color: #E6EDF3 !important;
 }
 
 span.dLyYq_bGBk.dLyYq_bXiG{
-  background-color: #0D1117!important;
+  background-color: #282A2E!important;
   color: #E6EDF3 !important;
 }
 
 .Grouping-styles__title{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 span.Grouping-styles__title::after{
@@ -136,18 +136,18 @@ span.Grouping-styles__title::after{
 }
 
 .menu-item .ic-app-header__menu-list-item{
-  background-color: #010409 !important;
+  background-color: #1D1F21 !important;
   color: #E6EDF3 !important;
 }
 
 
 #assignments-2-student-header, .user_content{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3 !important;
 }
 
 #assignments-student-footer{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 a.btn{
@@ -156,7 +156,7 @@ a.btn{
 
 a.Button{
   color: #E6EDF3 !important;
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 a.popover_close.x-close-link.close{
@@ -168,7 +168,7 @@ button.ui-dialog-titlebar-close.ui-corner-all{
 }
 
 svg[name=IconReply],svg[name=IconAddressBook],svg[name=IconReplyAll2],svg[name=IconCollectionSave],svg[name=IconCompose]{
-  color: #000 !important;
+  color: #25a3d4  !important;
 }
 
 svg[name=IconBookmark],svg[name=IconAssignment],svg[name=IconAnnouncement],svg[name=IconPlus],svg[name=IconQuiz],svg[name=IconAlerts],svg[name=IconGradebook],svg[name=IconDiscussion],svg{
@@ -185,7 +185,7 @@ svg[name=IconMore],svg[name=IconArrowOpenDown]{
 
 span.menu-item__badge{
   color: #000 !important;
-  background-color: #0D1117;
+  background-color: #282A2E;
 }
 
 span.enRcg_bGBk.enRcg_ycrn.enRcg_eQnG{
@@ -211,7 +211,7 @@ h3.fOyUs_bGBk.blnAQ_bGBk.blnAQ_dnfM.blnAQ_drOs{
 
 
 .pinned-discussions-v2__wrapper, .ic-item-row .pinned-discussions-v2__wrapper, .unpinned-discussions-v2__wrapper, .ic-discussion-row, .message-list .messages>li{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 button.element_toggler {
@@ -219,18 +219,18 @@ button.element_toggler {
 }
 
 #content, .button-sidebar-wide{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 /*nav*/
 .ic-app-header__main-navigation,.tray-with-space-for-global-nav, .navigation-tray-container.courses-tray, .navigation-tray-container,.UpdateItemTray-styles__root,#nav-tray-portal, div.fLzZc_caGd{
-  background-color: #010409 !important;
+  background-color: #1D1F21 !important;
 }
 .PlannerItem-styles__feedback,span.enRcg_bGBk.enRcg_ycrn.enRcg_eQnG{
   color: #E6EDF3 !important;
 }
 span[dir=ltr]{
-  background-color: #010409 !important;
+  background-color: #1D1F21 !important;
 }
 
 span.fCrpb_bGBk.fCrpb_egrg{
@@ -247,27 +247,27 @@ div.context{
 , .comments, .roster-tab, .rosterUser, .syllabus_assignment, tbody, .day_date, .table, .table-striped, .ic-flash-error,
 span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agenda-event__container,
 .event-details, .rubric_title, .content_box, .edit_calendar_event_form_holder,.ui-dialog-titlebar, .ui-widget-header, .ui-corner-all, .ui-helper-clearfix,.context_list_context,#other-calendars-list-holder,#edit_planner_note_form_holder  {
-    background-color: #0D1117 !important;
+    background-color: #282A2E !important;
 }
 
 .ic-app-header__logomark{
-  background-color: #010409;
+  background-color: #1D1F21;
 }
 .ic-app-header__secondary-navigation{
-  background-color: #010409;
+  background-color: #1D1F21;
 }
 
 /*dash */
 #dashboard-planner {
-  background-color: #0D1117;
+  background-color: #282A2E;
 }
 
 .Day-styles__root.planner-day{
-  background-color: #0D1117;
+  background-color: #282A2E;
 }
 
 .discussions-v2__container-image,.unpinned-discussions-v2__wrapper,.closed-for-comments-discussions-v2__wrapper{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 .Day-styles__root.planner-day.planner-today{
   color: #E6EDF3;
@@ -277,7 +277,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 }
 
 .EmptyDays-styles__nothingPlannedContainer{
-  background-color: #0D1117;
+  background-color: #282A2E;
 }
 
 .has_event, input#course_select_menu,input#assignment_sort_order_select_menu,#to-do-item-course-select{
@@ -298,12 +298,12 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 }
 
 .navigation-tray-container button:active::before{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 
 .ic-Dashboard-header__layout, #ugyHpVu7UZ3C,.fOyUs_kXoP{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3 !important;
 }
 
@@ -321,21 +321,21 @@ span.user_content, span.enhanced{
 }
 
 .course-list-unpublished-course-row{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3;
 }
 .css-srlnt2-formFieldLabel, #to-do-item-course-select, #ui-dialog-title,#ui-id-1,.formtable{
   color: #E6EDF3 !important;
 }
 .fc-state-highlight.fc-day-number{
-  color: #22d4f3 !important;
-  background-color: #202124 !important;
+  color: #000!important;
+  background-color: #E6EDF3 !important;
   font-weight: bold !important;
   border-bottom: #E6EDF3 solid 1px !important;
 }
 
 #minical{
-  background-color: #202124 !important;
+  background-color: #010409 !important;
 }
 
 .fc-day-number{
@@ -344,7 +344,7 @@ span.user_content, span.enhanced{
 
 
 .PlannerHeader-styles__root, .PlannerHeader, #dashboard-planner-header,.CanvasPlanner__HeaderContainer{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3 !important;
 }
 
@@ -362,11 +362,11 @@ span.user_content, span.enhanced{
 }
 
 .ic-DashboardCard__header_content, .ic-DashboardCard__action-container,.ic-DashboardCard{
-  background-color: #202124 !important;
+  background-color: #010409 !important;
 }
 
 #breadcrumbs{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
   color: #E6EDF3 !important;
 }
 .pure-u-1{
@@ -375,13 +375,13 @@ span.user_content, span.enhanced{
 
 
 span.sJGfW_bGBk, ul.cAqHo_eAjd, span.eoNrR_blJt{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 
 
 .fQfxa_caGd.fQfxa_ImeN, [dir="ltr"] .fQfxa_caGd.fQfxa_ImeN, [dir="rtl"] .fQfxa_caGd.fQfxa_ImeN{
-  background-color: #0D1117 !important;
+  background-color: #282A2E !important;
 }
 
 button#submit-button{

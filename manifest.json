@@ -480,7 +480,8 @@
             "https://canvas.xavier.edu/*",
             "https://canvas.yale.edu/*",
             "https://canvas.yc.edu/*",
-            "https://canvas.york.edu/*"
+            "https://canvas.york.edu/*",
+            "https://canvas.manchester.ac.uk/*"
           ],
           "css":[
             "css/styles.css"
